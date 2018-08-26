@@ -6,11 +6,11 @@
 
 ## Members
 
-> FrontEnd Developer - [**Young-il Cho**](@zerone2)<br>
-> FrontEnd Developer - [**Hyunseok Seo**](@samslow)<br>
-> BackEnd Developer  - [**Jaeho Cho**](@jaeho93)<br>
-> BackEnd Developer  - [**Jaehak Song**](@astralhpi)<br>
-> UI/UX Designer     - [**Jiwon Kim**](@wyjw210)
+> FrontEnd Developer - [**Young-il Cho**](https://github.com/zerone2)<br>
+> FrontEnd Developer - [**Hyunseok Seo**](https://github.com/samslow)<br>
+> BackEnd Developer  - [**Jaehak Song**](https://github.com/astralhpi)<br>
+> BackEnd Developer  - [**Jaeho Cho**](https://github.com/jaeho93)<br>
+> UI/UX Designer     - [**Jiwon Kim**](https://github.com/wyjw210)
 
 ## License
 
