@@ -6,11 +6,11 @@
 
 ## Members
 
-> **Young-il Cho** - FrontEnd Developer
-> **Hyunseok Seo** - FrontEnd Developer
-> **Jaeho Cho**    - BackEnd Developer  
-> **Jaehak Song**  - BackEnd Developer
-> **Jiwon Kim**    - UI/UX Designer
+> FrontEnd Developer - **Young-il Cho**<br>
+> FrontEnd Developer - **Hyunseok Seo**<br>
+> BackEnd Developer  - **Jaeho Cho**<br>
+> BackEnd Developer  - **Jaehak Song**<br>
+> UI/UX Designer     - **Jiwon Kim**
 
 ## License
 
