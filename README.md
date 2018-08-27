@@ -1,4 +1,6 @@
-# awesome-check-out
+# <p align="center">awesome-check-out</p>
+
+<p align="center"><a href="https://project.oss.kr/index.do"><img src="https://img.shields.io/badge/OSS%20Grand%20Developers%20Challenge-12th-red.svg"></a><a href="https://github.com/DdukTwiSun/awesome-check-out/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a></p>
 
 ## Overview
 
